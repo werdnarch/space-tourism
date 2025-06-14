@@ -1,0 +1,32 @@
+{
+  "app": {
+    "[project]/src/app/(navbar)/crew/page": [
+      "static/media/7cHpv4kjgoGqM7E_DMs5ynghnQ-s.p.7b90e4b3.woff2",
+      "static/media/HTx3L3I_JCGChYJ8VI_L6OO_au7B6xHT2lv0tKk-s.p.8859df8e.woff2",
+      "static/media/kJExBuYY6AAuhiXUxG1N_Po3huR_DQ-s.p.41c869e7.woff2"
+    ],
+    "[project]/src/app/(navbar)/destination/page": [
+      "static/media/7cHpv4kjgoGqM7E_DMs5ynghnQ-s.p.7b90e4b3.woff2",
+      "static/media/HTx3L3I_JCGChYJ8VI_L6OO_au7B6xHT2lv0tKk-s.p.8859df8e.woff2",
+      "static/media/kJExBuYY6AAuhiXUxG1N_Po3huR_DQ-s.p.41c869e7.woff2"
+    ],
+    "[project]/src/app/(navbar)/page": [
+      "static/media/7cHpv4kjgoGqM7E_DMs5ynghnQ-s.p.7b90e4b3.woff2",
+      "static/media/HTx3L3I_JCGChYJ8VI_L6OO_au7B6xHT2lv0tKk-s.p.8859df8e.woff2",
+      "static/media/kJExBuYY6AAuhiXUxG1N_Po3huR_DQ-s.p.41c869e7.woff2"
+    ],
+    "[project]/src/app/(navbar)/technology/page": [
+      "static/media/7cHpv4kjgoGqM7E_DMs5ynghnQ-s.p.7b90e4b3.woff2",
+      "static/media/HTx3L3I_JCGChYJ8VI_L6OO_au7B6xHT2lv0tKk-s.p.8859df8e.woff2",
+      "static/media/kJExBuYY6AAuhiXUxG1N_Po3huR_DQ-s.p.41c869e7.woff2"
+    ],
+    "[project]/src/app/_not-found/page": [
+      "static/media/7cHpv4kjgoGqM7E_DMs5ynghnQ-s.p.7b90e4b3.woff2",
+      "static/media/HTx3L3I_JCGChYJ8VI_L6OO_au7B6xHT2lv0tKk-s.p.8859df8e.woff2",
+      "static/media/kJExBuYY6AAuhiXUxG1N_Po3huR_DQ-s.p.41c869e7.woff2"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pages": {},
+  "pagesUsingSizeAdjust": false
+}

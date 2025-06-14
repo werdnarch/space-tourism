@@ -1,0 +1,8 @@
+{
+  "/(navbar)/crew/page": "app/(navbar)/crew/page.js",
+  "/(navbar)/destination/page": "app/(navbar)/destination/page.js",
+  "/(navbar)/page": "app/(navbar)/page.js",
+  "/(navbar)/technology/page": "app/(navbar)/technology/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js"
+}

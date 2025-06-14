@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/andre/Desktop/portfolio%20repo/space-tourism/src/app/%28navbar%29/layout.tsx"],"sourcesContent":["import React, { ReactNode } from \"react\";\r\n\r\nexport default function layout({ children }: { children: ReactNode }) {\r\n  return (\r\n    <main className={`h-full`}>\r\n      <header>TEST</header>\r\n      <section>{children}</section>\r\n    </main>\r\n  );\r\n}\r\n"],"names":[],"mappings":";;;;;AAEe,SAAS,OAAO,EAAE,QAAQ,EAA2B;IAClE,qBACE,8OAAC;QAAK,WAAW,CAAC,MAAM,CAAC;;0BACvB,8OAAC;0BAAO;;;;;;0BACR,8OAAC;0BAAS;;;;;;;;;;;;AAGhB","debugId":null}}]
+}
